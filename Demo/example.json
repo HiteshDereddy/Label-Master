@@ -1,0 +1,68 @@
+[
+    {
+        "image_id": "C:/Users/Harsh/OneDrive/Desktop/example.png",
+        "label": "chair.",
+        "score": 0.5269989967346191,
+        "bounding_box": [
+            455,
+            863,
+            689,
+            1018
+        ]
+    },
+    {
+        "image_id": "C:/Users/Harsh/OneDrive/Desktop/example.png",
+        "label": "chair.",
+        "score": 0.514626145362854,
+        "bounding_box": [
+            539,
+            526,
+            769,
+            874
+        ]
+    },
+    {
+        "image_id": "C:/Users/Harsh/OneDrive/Desktop/example.png",
+        "label": "mirror.",
+        "score": 0.43401673436164856,
+        "bounding_box": [
+            781,
+            41,
+            1003,
+            421
+        ]
+    },
+    {
+        "image_id": "C:/Users/Harsh/OneDrive/Desktop/example.png",
+        "label": "mirror.",
+        "score": 0.41797763109207153,
+        "bounding_box": [
+            459,
+            92,
+            583,
+            454
+        ]
+    },
+    {
+        "image_id": "C:/Users/Harsh/OneDrive/Desktop/example.png",
+        "label": "chair.",
+        "score": 0.3183800280094147,
+        "bounding_box": [
+            6,
+            349,
+            79,
+            705
+        ]
+    },
+    {
+        "image_id": "C:/Users/Harsh/OneDrive/Desktop/example.png",
+        "label": "face.",
+        "score": 0.3054617643356323,
+        "bounding_box": [
+            259,
+            185,
+            346,
+            322
+        ]
+    }
+]

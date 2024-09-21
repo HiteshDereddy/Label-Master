@@ -1,0 +1,7 @@
+image_id,label,score,bounding_box
+C:/Users/Harsh/OneDrive/Desktop/example.png,chair.,0.5269989967346191,"[455, 863, 689, 1018]"
+C:/Users/Harsh/OneDrive/Desktop/example.png,chair.,0.514626145362854,"[539, 526, 769, 874]"
+C:/Users/Harsh/OneDrive/Desktop/example.png,mirror.,0.43401673436164856,"[781, 41, 1003, 421]"
+C:/Users/Harsh/OneDrive/Desktop/example.png,mirror.,0.41797763109207153,"[459, 92, 583, 454]"
+C:/Users/Harsh/OneDrive/Desktop/example.png,chair.,0.3183800280094147,"[6, 349, 79, 705]"
+C:/Users/Harsh/OneDrive/Desktop/example.png,face.,0.3054617643356323,"[259, 185, 346, 322]"
