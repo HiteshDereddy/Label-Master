@@ -66,5 +66,5 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LabelMaster.git
+   git clone https://github.com/HiteshDereddy/LabelMaster.git
    cd LabelMaster
