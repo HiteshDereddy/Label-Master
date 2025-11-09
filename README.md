@@ -1,4 +1,4 @@
-# Label Master - Lucario
+# Label Master
 
 **Label Master** is a desktop application designed to streamline the image annotation process using AI-assisted object detection. By integrating pre-trained models, the application allows users to quickly label and annotate images while retaining full control for manual adjustments.
 
