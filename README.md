@@ -45,6 +45,9 @@ The goal of this application is to accelerate the image annotation process with 
 
 4. **Save Annotations:**
    - Implement a save function to export annotations in JSON, XML, or CSV formats, containing bounding box details and their corresponding labels.
+  
+<h2>🎬 Demo</h2>
+<video src="Demo/demo.mp4" controls width="700"></video>
 
 ## Evaluation Criteria
 
