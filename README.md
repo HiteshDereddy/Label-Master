@@ -47,8 +47,9 @@ The goal of this application is to accelerate the image annotation process with 
    - Implement a save function to export annotations in JSON, XML, or CSV formats, containing bounding box details and their corresponding labels.
   
 <h2>🎬 Demo</h2>
-<video src= controls width="700"></video>
-<video src="https://github.com/HiteshDereddy/Label-Master/raw/main/Demo/Demo.mp4" width="320" height="240" controls></video>
+
+https://github.com/user-attachments/assets/cd1b46b7-980e-4276-8c54-9c854be41cb5
+
 
 ## Evaluation Criteria
 
