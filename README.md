@@ -48,7 +48,7 @@ The goal of this application is to accelerate the image annotation process with 
   
 <h2>🎬 Demo</h2>
 <video src= controls width="700"></video>
-<video src="/Demo/Demo.mp4" width="320" height="240" controls></video>
+<video src="https://github.com/HiteshDereddy/Label-Master/raw/main/Demo/Demo.mp4" width="320" height="240" controls></video>
 
 ## Evaluation Criteria
 
